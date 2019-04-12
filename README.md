@@ -1,3 +1,8 @@
+
+## Try It
+
+https://nishitmehta1.github.io/reactjs-simpleCalculator/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
