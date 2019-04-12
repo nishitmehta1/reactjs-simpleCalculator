@@ -1,0 +1,9 @@
+.ClearButton{
+	display: flex;
+	flex: 1;
+	height: 4em;
+	align-items: center;
+	justify-content: center;
+	outline: 1px solid #888;
+	background-color: grey; 
+}	
