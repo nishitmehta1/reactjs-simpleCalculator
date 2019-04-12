@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "nishitmehta.info/react-calculator/precache-manifest.63487ca2c007a263e8f751c299d63ea0.js"
+  "/reactjs-simpleCalculator/precache-manifest.904859b0eb7163df04a9714e6d6e77b3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("nishitmehta.info/react-calculator/index.html", {
+workbox.routing.registerNavigationRoute("/reactjs-simpleCalculator/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

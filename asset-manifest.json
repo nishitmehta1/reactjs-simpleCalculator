@@ -1,13 +1,13 @@
 {
-  "main.css": "nishitmehta.info/react-calculator/static/css/main.cb457443.chunk.css",
-  "main.js": "nishitmehta.info/react-calculator/static/js/main.f55881ca.chunk.js",
-  "main.js.map": "nishitmehta.info/react-calculator/static/js/main.f55881ca.chunk.js.map",
-  "runtime~main.js": "nishitmehta.info/react-calculator/static/js/runtime~main.cfd9c1c6.js",
-  "runtime~main.js.map": "nishitmehta.info/react-calculator/static/js/runtime~main.cfd9c1c6.js.map",
-  "static/js/2.d6a534e5.chunk.js": "nishitmehta.info/react-calculator/static/js/2.d6a534e5.chunk.js",
-  "static/js/2.d6a534e5.chunk.js.map": "nishitmehta.info/react-calculator/static/js/2.d6a534e5.chunk.js.map",
-  "index.html": "nishitmehta.info/react-calculator/index.html",
-  "precache-manifest.63487ca2c007a263e8f751c299d63ea0.js": "nishitmehta.info/react-calculator/precache-manifest.63487ca2c007a263e8f751c299d63ea0.js",
-  "service-worker.js": "nishitmehta.info/react-calculator/service-worker.js",
-  "static/css/main.cb457443.chunk.css.map": "nishitmehta.info/react-calculator/static/css/main.cb457443.chunk.css.map"
+  "main.css": "/reactjs-simpleCalculator/static/css/main.cb457443.chunk.css",
+  "main.js": "/reactjs-simpleCalculator/static/js/main.43a0da2c.chunk.js",
+  "main.js.map": "/reactjs-simpleCalculator/static/js/main.43a0da2c.chunk.js.map",
+  "runtime~main.js": "/reactjs-simpleCalculator/static/js/runtime~main.cdc5a1dd.js",
+  "runtime~main.js.map": "/reactjs-simpleCalculator/static/js/runtime~main.cdc5a1dd.js.map",
+  "static/js/2.d6a534e5.chunk.js": "/reactjs-simpleCalculator/static/js/2.d6a534e5.chunk.js",
+  "static/js/2.d6a534e5.chunk.js.map": "/reactjs-simpleCalculator/static/js/2.d6a534e5.chunk.js.map",
+  "index.html": "/reactjs-simpleCalculator/index.html",
+  "precache-manifest.904859b0eb7163df04a9714e6d6e77b3.js": "/reactjs-simpleCalculator/precache-manifest.904859b0eb7163df04a9714e6d6e77b3.js",
+  "service-worker.js": "/reactjs-simpleCalculator/service-worker.js",
+  "static/css/main.cb457443.chunk.css.map": "/reactjs-simpleCalculator/static/css/main.cb457443.chunk.css.map"
 }
